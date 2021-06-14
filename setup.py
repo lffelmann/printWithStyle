@@ -1,6 +1,6 @@
 import setuptools
 
-VERSION="0.0.1"
+VERSION="0.0.2"
 DESCRIPTION="Small library to style print()."
 
 with open("README.md", "r") as fh:

@@ -23,3 +23,12 @@ Has to be str. (possible values: "black", "red", "green", "yellow", "blue", "mag
 
 <i>background:</i> background color<br>
 Has to be str. (possible values: "black", "red", "green", "yellow", "blue", "magenta", "cyan", "white")
+
+<h2>Usage</h2>
+
+```python
+from printWithStyle import *
+printWithStyle(["Hello","World"], bold=True)
+```
+<i>Output:</i><br>
+<b>Hello<br>World</b>
